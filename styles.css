@@ -14,9 +14,8 @@ h1 {
 
 /* Element selector: paragraph tag */
 /* It uses the box model: border, margin and padding */
-/* It also uses text formatting such as font family, font size, line spacing,
-list style and text decoration.  */
-
+/* It also uses text formatting such as font family, font size and line spacing.  
+*/
 p{
     color: #58cc02;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -31,8 +30,8 @@ p{
 
 /* Element selector: Heading 2 tag */
 /* It uses the box model: border, margin and padding */
-/* It also uses text formatting such as font family, font size, line spacing,
-list style and text decoration.  */
+/* It also uses text formatting such as font family, font size and
+ line spacing */
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #89e219;
