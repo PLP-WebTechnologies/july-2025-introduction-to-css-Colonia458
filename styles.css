@@ -1,0 +1,80 @@
+
+/* Element selector: Heading 1 tag */
+h1 {
+    border: 1px black solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    font-size: 35pt;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    color:#ffffff ;
+    background:#58cc02 ;  
+}
+
+/* Element selector: paragraph tag */
+/* It uses the box model: border, margin and padding */
+/* It also uses text formatting such as font family, font size, line spacing,
+list style and text decoration.  */
+
+p{
+    color: #58cc02;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16pt;
+    background: #4B4B4B;
+    line-height: 2.5;
+    border: 2px #ffffff;
+    padding: 10px 20px;
+    margin: 10px 20%;
+    text-align: center;
+}
+
+/* Element selector: Heading 2 tag */
+/* It uses the box model: border, margin and padding */
+/* It also uses text formatting such as font family, font size, line spacing,
+list style and text decoration.  */
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #89e219;
+    font-size: 28pt;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    background: #ffffff;
+    border: 1px #4B4B4B;
+    padding: 10px;
+}
+
+
+/* Class Selector: features */
+/* It uses the box model: border, margin and padding */
+/* It also uses text formatting such as font family, font size, line spacing,
+list style and text decoration.  */
+.features{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16pt;
+
+    margin: 0% auto;
+    padding: 20px;
+
+    width: fit-content;
+    align-items: center;
+    line-height: 2;
+
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    color:#e5e5e5;
+    background: #777777;
+}
+
+/* ID selector: languages */
+/* Includes the use of box model i.e border, padding & margin */
+#languages{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16pt;
+    line-height: 2;
+    color: #1cb0f6;
+    background: #e5e5e5;
+    text-align: center;
+}
